@@ -1,0 +1,27 @@
+# Компилируемые файлы
+a.out
+*.exe
+*.out
+*.o
+*.obj
+
+# Папки сборки
+build/
+Debug/
+Release/
+bin/
+obj/
+
+# IDE / редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.log
+
+# Bin
+hello
+program
