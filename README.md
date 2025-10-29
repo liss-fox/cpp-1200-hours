@@ -1,4 +1,4 @@
-# C++ 1200 Hours → Junior+ ($60k+ Remote)
+# C++ 1200 Hours → Junior+
 
 > **Goal:** Become a C++ Junior Developer in **1200 hours** of focused practice.  
 > **Target:** Remote job, global market.
